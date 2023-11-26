@@ -1,1 +1,0 @@
-Unduh dataset dari tautan berikut: rockpaperscissors.zip. Jika tautan tersebut tidak berhasil melakukan unduhan, harap salin dan tempel tautan ini: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip di peramban web Anda. Pastikan untuk menyimpan berkas zip tersebut dan mengekstraknya ke direktori yang sesuai sebelum menjalankan kode program.
