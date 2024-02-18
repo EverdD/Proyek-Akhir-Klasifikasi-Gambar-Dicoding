@@ -1,6 +1,6 @@
 # Rock Paper Scissors Image Classification
 
-![Rock Paper Scissors](https://github.com/dicodingacademy/assets/raw/main/releases/rockpaperscissors/rockpaperscissors.png)
+![Rock Paper Scissors](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRock_paper_scissors&psig=AOvVaw0pXTnmrv7SEAIUUJhy73YJ&ust=1708351283765000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDJ29aGtYQDFQAAAAAdAAAAABAE)
 
 ## Project Overview
 
