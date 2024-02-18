@@ -1,6 +1,6 @@
 # Rock Paper Scissors Image Classification
 
-![Rock Paper Scissors](https://imgur.com/t/rock_paper_scissors/Zwmujjx)
+![Rock Paper Scissors]([https://imgur.com/t/rock_paper_scissors/Zwmujjx](https://imgur.com/t/rock_paper_scissors/1Lo5tAL))
 
 ## Project Overview
 
