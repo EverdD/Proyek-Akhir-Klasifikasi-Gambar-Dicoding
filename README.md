@@ -1,7 +1,5 @@
 # Proyek Akhir: Klasifikasi Gambar
 
-![Rock Paper Scissors](https://github.com/dicodingacademy/assets/raw/main/releases/rockpaperscissors/rockpaperscissors.png)
-
 ## Deskripsi Proyek
 
 Proyek ini merupakan implementasi dari klasifikasi gambar menggunakan dataset "Rock Paper Scissors". Tujuan utamanya adalah untuk mengembangkan model machine learning yang dapat membedakan antara gambar batu, kertas, dan gunting.
